@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: MyString
+  approved_status: MyString
+  redone: false
+  completed_by_id: 1
+  area_id: 1
+
+two:
+  status: MyString
+  approved_status: MyString
+  redone: false
+  completed_by_id: 1
+  area_id: 1
